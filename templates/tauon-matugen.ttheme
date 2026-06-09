@@ -1,0 +1,81 @@
+# Tauon Music Box theme file
+# Generated with Matugen (RGB only, no alpha)
+
+#-Backgrounds-----
+
+{{colors.background.default.rgb}}        player background (top panel)
+{{colors.background.default.rgb}}        playlist panel
+{{colors.background.default.rgb}}        side panel
+{{colors.background.default.rgb}}        bottom panel
+{{colors.background.default.rgb}}        queue panel
+
+#-Playlist-------
+
+{{colors.on_surface.default.rgb}}         track line
+{{colors.on_surface.default.rgb}}         track time
+{{colors.on_surface.default.rgb}}         track index
+{{colors.secondary.default.rgb}}          track artist
+{{colors.tertiary.default.rgb}}           album line
+
+{{colors.on_surface.default.rgb}}         track playing
+{{colors.primary.default.rgb}}            index playing
+{{colors.secondary.default.rgb}}          artist playing
+{{colors.tertiary.default.rgb}}           album playing
+{{colors.primary.default.rgb}}            time playing
+
+{{colors.tertiary.default.rgb}}           track missing
+
+{{colors.tertiary.default.rgb}}           fav line
+{{colors.secondary.default.rgb}}          folder line
+{{colors.tertiary.default.rgb}}           folder title
+
+{{colors.primary_container.default.rgb}}            playing highlight
+{{colors.surface_container.default.rgb}}           select highlight
+{{colors.on_surface.default.rgb}}         gallery highlight
+
+#-Menu-------------
+
+{{colors.background.default.rgb}}         menu background
+{{colors.primary.default.rgb}}            menu highlight
+{{colors.on_surface.default.rgb}}         menu text
+{{colors.secondary.default.rgb}}          menu disable text
+
+#-Bottom panel------
+
+{{colors.secondary.default.rgb}}          buttons off
+{{colors.primary.default.rgb}}            buttons over
+{{colors.on_surface.default.rgb}}         buttons active
+
+{{colors.on_surface.default.rgb}}         playing time
+
+{{colors.secondary.default.rgb}}          seek bar
+{{colors.secondary.default.rgb}}          volume bar
+{{colors.surface_container.default.rgb}}           seek bg
+{{colors.surface_container.default.rgb}}           volume bg
+{{colors.secondary.default.rgb}}          scroll bar
+
+{{colors.secondary.default.rgb}}          mode off
+{{colors.primary.default.rgb}}            mode over
+{{colors.tertiary.default.rgb}}           mode on
+
+{{colors.primary.default.rgb}}            bottom title
+
+#-Top panel---------
+
+{{colors.primary.default.rgb}}            tab active line
+{{colors.primary.default.rgb}}            tab line
+{{colors.background.default.rgb}}         tab background
+{{colors.tertiary.default.rgb}}           tab over
+{{colors.tertiary.default.rgb}}           tab active background
+{{colors.on_surface.default.rgb}}         music vis
+
+#-Side panel--------
+
+{{colors.primary.default.rgb}}            title info
+{{colors.on_surface.default.rgb}}         extra info
+{{colors.secondary.default.rgb}}          art border
+
+#-Mini Mode---------
+
+{{colors.background.default.rgb}}         mini bg
+{{colors.on_surface.default.rgb}}         mini border
